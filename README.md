@@ -1,2 +1,3 @@
-# blizzard
-code challenge
+# Blizzard Entertainment
+
+Code Challenge
